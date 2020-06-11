@@ -2,6 +2,7 @@ const FILES_TO_CACHE = [
   "/",
   "/index.html",
   "/styles.css",
+  "favicon.ico",
   "/index.js",
   "/db.js",
   "/icons/icon-192x192.png",
