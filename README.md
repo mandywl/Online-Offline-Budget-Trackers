@@ -1,16 +1,16 @@
 <h1 align="center">18 Online/Offline Budget Trackers</h1>
 
 > Online/Offline Budget Trackers web app allows user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-
-Offline Functionality:
-
-  * Enter deposits offline
-
-  * Enter expenses offline
-
-When brought back online:
-
-  * Offline entries should be added to tracker.
+>
+> Offline Functionality:
+>
+>  * Enter deposits offline
+>
+>  * Enter expenses offline
+>
+> When brought back online:
+>
+>  * Offline entries should be added to tracker.
 
 ### ✨ [Github Repo](https://github.com/mandywl/18-Online-Offline-Budget-Trackers)
 
